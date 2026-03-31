@@ -1,7 +1,9 @@
 # My Project Website
 ## Team Members
-- Your Name
-- Partner Name
+- Maher Abo Abed
+- Sabeeha Zainab Hasham
+- Basel Feres Ghunaim
+- Ahmed Nasser Alshehhi
 ## Project Question
 How can we design and test a simple project website using GitHub Pages?
 ## Background
