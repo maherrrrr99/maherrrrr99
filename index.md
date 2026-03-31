@@ -18,11 +18,16 @@ Industrial mechatronics is shaping the future of modern industries, where robots
 One of the most prominent applications of industrial mechatronics is robotic arms, which are widely used to perform a variety of tasks. Among these, pick-and-place operations are especially common, appearing in assembly lines, warehouses, and other automated environments. A pick-and-place robot represents one of the most comprehensive mechatronic systems, as it integrates multiple engineering disciplines. This makes it an ideal project for mechatronics students, offering valuable hands-on experience in system design and implementation.
 
 Through this project, students will be exposed to key concepts in mechanical, electrical, control, and computer engineering all of which are critical in modern industry. Furthermore, the project encourages students to incorporate data-driven approaches such as artificial intelligence and machine learning to enhance system performance, aligning their skill sets with current industrial and academic trends.
+
+![Industrial Pick and Place Robot](images/Picking_robot.jpg)
+
+Figure 1: Industrial Pick and Place Robot.
+
 ## Project Resources
 - [Project Guideline](Project_Guidelines.pdf)
 - [Weekly Progress Reports (Week 1-4)](Weekly_Progress_Reports)
 - [Slides](#)
-- [Shared Folder](#)
+- [Course's Book](#)
 - [Video Demo](#)
 ## Results
 Write 2–4 sentences explaining what your project is about and what you found.
