@@ -5,12 +5,22 @@
 - Basel Feres Ghunaim
 - Ahmed Nasser Alshehhi
 ## Project Question
-How can we design and test a simple project website using GitHub Pages?
+The objective of this project is to design and develop a smart, autonomous mobile pick-and-place robot capable of sorting various objects including a bolt, nut, compass, stress ball, and egg into designated containers. The system should integrate both electrical and fluid power components to achieve efficient and reliable operation.
+
+The design process must follow a structured engineering methodology consisting of 12 phases, beginning with system definition and primary sensing, and progressing through to advanced stages such as intelligent control using fuzzy logic. This approach ensures a comprehensive development cycle from concept to implementation.
+
+Each team will consist of four members, all of whom are expected to contribute equally to the project. Progress will be monitored through weekly in-class presentations, where both individual contributions and group achievements are evaluated.
+
+The final design should remain within a reasonable student budget while meeting appropriate engineering standards in terms of functionality, innovation, and execution.
 ## Background
-This site collects our project materials, notes, and deliverables.
+Industrial mechatronics is shaping the future of modern industries, where robots have become an integral part of many operations. Their use has significantly enhanced productivity and efficiency while also reducing operational costs. As a result, the role of a mechatronics engineer has become increasingly essential in today’s world, with demand for these skills continuing to grow.
+
+One of the most prominent applications of industrial mechatronics is robotic arms, which are widely used to perform a variety of tasks. Among these, pick-and-place operations are especially common, appearing in assembly lines, warehouses, and other automated environments. A pick-and-place robot represents one of the most comprehensive mechatronic systems, as it integrates multiple engineering disciplines. This makes it an ideal project for mechatronics students, offering valuable hands-on experience in system design and implementation.
+
+Through this project, students will be exposed to key concepts in mechanical, electrical, control, and computer engineering all of which are critical in modern industry. Furthermore, the project encourages students to incorporate data-driven approaches such as artificial intelligence and machine learning to enhance system performance, aligning their skill sets with current industrial and academic trends.
 ## Project Resources
 - [Project Proposal](#)
-- [Notebook 1](#)
+- [Weekly Progress Reports (Week 1-4)](#)
 - [Slides](#)
 - [Shared Folder](#)
 - [Video Demo](#)
