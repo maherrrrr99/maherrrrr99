@@ -1,4 +1,4 @@
-# My Project Website
+# Smart Pick and Place Robot
 ## Team Members
 - Maher Abo Abed
 - Sabeeha Zainab Hasham
