@@ -27,7 +27,7 @@ Figure 1: Industrial Pick and Place Robot.
 - [Project Guideline](Project_Guidelines.pdf)
 - [Weekly Progress Reports (Week 1-4)](Weekly_Progress_Reports)
 - [Slides](#)
-- [Course's Book](Mechatronics Electronic Control Systems in Mechanical and Electrical Engineering.pdf)
+- [Course's Book]()
 - [Video Demo](#)
 ## Results
 Write 2–4 sentences explaining what your project is about and what you found.
