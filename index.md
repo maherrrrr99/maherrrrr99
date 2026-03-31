@@ -28,7 +28,7 @@ Figure 1: Industrial Pick and Place Robot.
 - [Weekly Progress Reports (Week 1-4)](Weekly_Progress_Reports)
 - [Slides](Slides)
 - [Course's Book](Course_Book.pdf)
-- [Video Demo](#)
+- [Video Demos](https://www.youtube.com/watch?v=ZXRSt3asv0w)
 ## Results
 The team has made solid progress in developing the conceptual design, including system architecture, CAD models, and early electrical planning, while also improving object detection using color and shape recognition techniques . Important components like motor selection, sensing methods, and the suction system have already been finalized, with integration and control still in progress . However, limited access to university facilities and challenges in coordinating as a team have slowed down hands-on work, especially fabrication and prototyping . Overall, the project is moving forward well, but there are still some risks that could affect the timeline.
 ## Bibliography
