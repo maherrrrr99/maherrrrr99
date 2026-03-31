@@ -26,6 +26,7 @@ Figure 1: Industrial Pick and Place Robot.
 ## Project Resources
 - [Project Guideline](Project_Guidelines.pdf)
 - [Weekly Progress Reports (Week 1-4)](Weekly_Progress_Reports)
+- [Notes)](Notes1.pdf)
 - [Slides](Slides)
 - [Course's Book](Course_Book.pdf)
 - [Video Demos](https://www.youtube.com/watch?v=ZXRSt3asv0w)
