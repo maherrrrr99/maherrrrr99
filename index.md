@@ -5,6 +5,7 @@
 - Basel Feres Ghunaim
 - Ahmed Nasser Alshehhi
 ## Project Goal
+
 The objective of this project is to design and develop a smart, autonomous mobile pick-and-place robot capable of sorting various objects including a bolt, nut, compass, stress ball, and egg into designated containers. The system should integrate both electrical and fluid power components to achieve efficient and reliable operation.
 
 The design process must follow a structured engineering methodology consisting of 12 phases, beginning with system definition and primary sensing, and progressing through to advanced stages such as intelligent control using fuzzy logic. This approach ensures a comprehensive development cycle from concept to implementation.
