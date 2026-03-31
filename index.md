@@ -19,7 +19,7 @@ One of the most prominent applications of industrial mechatronics is robotic arm
 
 Through this project, students will be exposed to key concepts in mechanical, electrical, control, and computer engineering all of which are critical in modern industry. Furthermore, the project encourages students to incorporate data-driven approaches such as artificial intelligence and machine learning to enhance system performance, aligning their skill sets with current industrial and academic trends.
 ## Project Resources
-- [Project Proposal](#)
+- [Project Guideline](Project_Guidelines.pdf)
 - [Weekly Progress Reports (Week 1-4)](Weekly_Progress_Reports)
 - [Slides](#)
 - [Shared Folder](#)
