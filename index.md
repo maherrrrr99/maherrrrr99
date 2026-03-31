@@ -13,7 +13,7 @@ This site collects our project materials, notes, and deliverables.
 - [Notebook 1](#)
 - [Slides](#)
 - [Shared Folder](#)
-- [Video Demo](#)
+- [Video Demo](# https://www.youtube.com/watch?v=SF3lLiv9ZjY)
 ## Results
 Write 2–4 sentences explaining what your project is about and what you found.
 ## Bibliography
